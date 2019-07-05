@@ -1,0 +1,14 @@
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\MLGymCalculatorAPI\MLGymTrainerAPI\MLGymTrainerAPI\bin\Debug\netcoreapp2.2\MLGymTrainerAPI.deps.json
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\MLGymCalculatorAPI\MLGymTrainerAPI\MLGymTrainerAPI\bin\Debug\netcoreapp2.2\MLGymTrainerAPI.runtimeconfig.json
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\MLGymCalculatorAPI\MLGymTrainerAPI\MLGymTrainerAPI\bin\Debug\netcoreapp2.2\MLGymTrainerAPI.runtimeconfig.dev.json
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\MLGymCalculatorAPI\MLGymTrainerAPI\MLGymTrainerAPI\bin\Debug\netcoreapp2.2\MLGymTrainerAPI.dll
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\MLGymCalculatorAPI\MLGymTrainerAPI\MLGymTrainerAPI\bin\Debug\netcoreapp2.2\MLGymTrainerAPI.pdb
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\MLGymCalculatorAPI\MLGymTrainerAPI\MLGymTrainerAPI\obj\Debug\netcoreapp2.2\MLGymTrainerAPI.csprojAssemblyReference.cache
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\MLGymCalculatorAPI\MLGymTrainerAPI\MLGymTrainerAPI\obj\Debug\netcoreapp2.2\MLGymTrainerAPI.csproj.CoreCompileInputs.cache
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\MLGymCalculatorAPI\MLGymTrainerAPI\MLGymTrainerAPI\obj\Debug\netcoreapp2.2\MLGymTrainerAPI.RazorAssemblyInfo.cache
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\MLGymCalculatorAPI\MLGymTrainerAPI\MLGymTrainerAPI\obj\Debug\netcoreapp2.2\MLGymTrainerAPI.RazorAssemblyInfo.cs
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\MLGymCalculatorAPI\MLGymTrainerAPI\MLGymTrainerAPI\obj\Debug\netcoreapp2.2\MLGymTrainerAPI.AssemblyInfoInputs.cache
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\MLGymCalculatorAPI\MLGymTrainerAPI\MLGymTrainerAPI\obj\Debug\netcoreapp2.2\MLGymTrainerAPI.AssemblyInfo.cs
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\MLGymCalculatorAPI\MLGymTrainerAPI\MLGymTrainerAPI\obj\Debug\netcoreapp2.2\MLGymTrainerAPI.RazorTargetAssemblyInfo.cache
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\MLGymCalculatorAPI\MLGymTrainerAPI\MLGymTrainerAPI\obj\Debug\netcoreapp2.2\MLGymTrainerAPI.dll
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\MLGymCalculatorAPI\MLGymTrainerAPI\MLGymTrainerAPI\obj\Debug\netcoreapp2.2\MLGymTrainerAPI.pdb
